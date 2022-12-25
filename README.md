@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Blake! (he/him)
 - 📚 Currently Studying Computer Science @ Michigan State University
-- 💻 Looking for Software Engineering Internships for Summer 2023
+- 💻 Incoming Software Development Intern @ Auto-Owners Insurance
 
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/blake-potvin/)!
 
